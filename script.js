@@ -11,3 +11,4 @@ function szamol() {
         document.getElementById('megoldas').innerHTML = "Az út megtehető tankolás nélkül"
     }
 }
+
